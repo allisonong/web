@@ -39,6 +39,9 @@ ol li{
 table{
     border:none;
 }
+tfoot{
+    background-color:#55C29A;
+}
 hr{
     border-top:1.5px solid #285C49;   
     border-bottom:1.5px solid #285C49;
@@ -98,4 +101,10 @@ a:hover{
     margin-left:auto;
     margin-right:auto;
     width:90%;
+}
+.miles{
+    display:block;
+    font-weight:bold;
+    text-align:right;
+    padding-right:3%;
 }
