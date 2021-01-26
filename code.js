@@ -15,8 +15,7 @@ window.onload = function() {
 	// Set the albumsElement innerHTML
 	albumsElement.innerHTML = "Albums: " + runs.length; 
 
-	var totMiles=0;
-
+	var totMiles = 0;
 
 	// Parse the runs list and generate HTML elements
 	for (var i=0; i<runs.length; i++) {
@@ -74,6 +73,8 @@ window.onload = function() {
 		}
 	}
 
+	totMiles = totMiles.toFixed(2);
 	milesElement.innerHTML = "Miles: " + totMiles; 
+
 
 }

@@ -8,7 +8,7 @@ h1{
 }
 h2{
     text-align:center;
-    background-color:#D1ADF0;
+    background-color:#3199B5;
     padding:0.5%;
     color:white;
 }
@@ -17,7 +17,7 @@ h3{
 }
 h4{
     padding-left:3%;
-    color:#6A737A;
+    color:#414649;
 }
 h5{
     text-align:center;
@@ -40,9 +40,8 @@ table{
     border:none;
 }
 tfoot{
-    background-color:#D1ADF0;
+    background-color:#3199B5;
     color:white;
-    padding-bottom:25%;
 }
 hr{
     border-top:1.5px solid #285C49;   
@@ -59,11 +58,15 @@ a:hover{
 p{
 
 }
+img.center{
+    border:5px solid white;
+    margin-bottom:10%;
+}
 .sidebar{
 	vertical-align:top;
 }
 #sidebar{
-    background-color:#C5DCF0;
+    background-color:#FFF8D9;
     border-radius:25px;
     font-weight:300;
     padding-bottom:5%;
@@ -101,12 +104,12 @@ p{
     padding-right:3%;
 }
 .entry{
-    min-height:40%;
+    min-height:50%;
     margin-left:10%;
     margin-right:10%;
 }
 .entry:hover {
-    background-color:#F0E6B9;
+    background-color:#FFF8D9;
     display:inline-block;
 }
 .images{
@@ -128,4 +131,5 @@ p{
     text-align:right;
     text-align:bottom;
     padding-right:3%;
+    color:#414649;
 }
