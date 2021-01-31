@@ -1,6 +1,18 @@
 runs = [
 
 	{
+		"date":"1/30/2021",
+		"rsnum":"459",
+		"title":"Man on the Moon ",
+		"artist":"Kid Cudi ",
+		"year":"2009",
+		"quote":"On his debut LP, the Cleveland rapper took that sound further and deeper, merging emo and psychedelic rock with hip-hop bombast. His introspect runs the gamut from the severe depression of “Day ‘n’ Nite” to the sweet contentment of “Pursuit of Happiness,” both of which became unlikely hits. A decade after Man on the Moon, every chart is dominated by Kudi’s sad children.",
+		"text":"Here is an album that has been a ‘Soundtrack to my life’ ever since I first listened to it in full, on a plane, in late college. I don’t remember where I was going but I remember putting my earbuds in and being progressively more and more impressed as the album progressed. First of all, the album is narrated by Common, who is probably the best bedtime story reader in the world. Cudi is so relatable singing about pain, solitude, depression, introspection and staying awake all night alone in your bedroom. There are many lyrics from this album that get stuck in my head; ‘the moon will illuminate my room and soon I’m consumed by my doom’ (basically how I spent high school). But even with the songs about depression and loneliness, Cudi is also clever, cocky, and optimistic about the future. He’s an underdog you can relate to. Sonically, this album is super pleasing as well. The layers of futuristic, psychedelic, dream sounds about as worthy of Daft Punk as it gets, without being Daft Punk. I would listen to the music of this album without the lyrics. To me this is about as good as it gets. One of my favorites of all time. Oh, and I ran the longest and fastest I have since I started this project :P. ",		
+		"miles":"5.8",
+		"img":"man-on-the-moon.jpg"
+	},
+
+	{
 		"date":"1/23/2021",
 		"rsnum":"365",
 		"title":"Madvillainy ",
