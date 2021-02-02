@@ -1,6 +1,18 @@
 runs = [
 
 	{
+		"date":"2/2/2021",
+		"rsnum":"268",
+		"title":"Sail Away ",
+		"artist":"Randy Newman ",
+		"year":"1972",
+		"quote":"\"King of the Suburban Blues Singers.\” Randy Newman went on to a long career scoring Hollywood movies, but on Sail Away, he was still L.A.’s weirdest singer-songwriter, a piano man singing sardonic tales of sleazy grifters in tunes full of New Orleans R&B and Tin Pan Alley showbiz. Sail Away is his meanest and funniest American portrait.",
+		"text":"When I queued up this album I was surprised to see that Randy Newman is the man behind the song ‘You’ve got a friend in me’ from Toy Story. I wasn’t sure what to expect. I still don’t know how to describe what I just listened to. I think this is a style of music I have very little experience with. This album has parts that feel disney (especially because of the orchestral backing), a lot of it feels Billy Joel, sometimes it feels like Day Tripper Beatles, and then there’s some Tom Waits grit. I think what is the most fun about this type of music is the atmospheric storytelling. Each song feels like a story that you’re overhearing in a dimly lit American bar. I decided that this should be an ‘chill’ run and deliberately slowed it down. I was surprised to see that my ‘chill’ pace was a lot faster than my ‘struggle’ pace had been a few weeks ago. But this is probably also due to the fact that I set my app to cut out the time that I spend waiting for stop lights. Either way it feels good to see my mile times going down.",		
+		"miles":"2.7",
+		"img":"sail-away.jpeg"
+	},
+
+	{
 		"date":"1/30/2021",
 		"rsnum":"459",
 		"title":"Man on the Moon ",
