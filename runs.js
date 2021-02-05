@@ -1,10 +1,22 @@
 runs = [
 
 	{
+		"date":"2/4/2021",
+		"rsnum":"263",
+		"title":"A Hard Day's Night ",
+		"artist":"The Beatles",
+		"year":"1964",
+		"quote":"It was their first album of all-original material, showcasing leaps in their songwriting as well as new tricks like George Harrison’s 12-string guitar, picked up on tour in America, and the Dylanesque harmonica blast that opens “I Should Have Known Better.",
+		"text":"I am going to be controversial and be negative about a Beatles album. I understand that the Beatles have influenced most modern music and that I am taking for granted things they did that were awesome and new at the time. I’m just speaking on my experience running to this album in 2021. There was a time in my life (before puberty) when I appreciated the aches of simple desires, like wanting to hold hands or having a crush. However, right now older Beatles songs are a little uninteresting to me. Firstly, the songs are about super simple ideas. If Kid Cudi addresses depression, anxiety, family, drug use, and existential crisis in one song, then a song about being happy to dance with someone feels a little boring. When MF Doom is making multi-word, multi-syllable rhymes, often repeating in one line or spanning multiple stanzas, then forgive me if rhyming ‘dog’ with ‘log’ and ‘tight’ with ‘night’ feels a little unimpressive. As I was running, I noticed that I could predict the last word of every other line, because the lyrics and rhymes were so predictable. The song that stood out the most was ‘Can’t Buy me Love’, because the beat between ‘I don’t care too’ and ‘much for money’ was interesting and unexpected. I am looking forward to the albums where the Beatles get less wholesome.  I would like to say, with regard to my running, that I have officially reached the point where running no longer feels horrible. In fact, it’s starting to feel like no big deal to do 3 miles. So, that’s great!",		
+		"miles":"2.9",
+		"img":"a-hard-days-night.jpg"
+	},
+
+	{
 		"date":"2/2/2021",
 		"rsnum":"268",
-		"title":"Sail Away ",
-		"artist":"Randy Newman ",
+		"title":"Sail Away",
+		"artist":"Randy Newman",
 		"year":"1972",
 		"quote":"\"King of the Suburban Blues Singers.\” Randy Newman went on to a long career scoring Hollywood movies, but on Sail Away, he was still L.A.’s weirdest singer-songwriter, a piano man singing sardonic tales of sleazy grifters in tunes full of New Orleans R&B and Tin Pan Alley showbiz. Sail Away is his meanest and funniest American portrait.",
 		"text":"When I queued up this album I was surprised to see that Randy Newman is the man behind the song ‘You’ve got a friend in me’ from Toy Story. I wasn’t sure what to expect. I still don’t know how to describe what I just listened to. I think this is a style of music I have very little experience with. This album has parts that feel disney (especially because of the orchestral backing), a lot of it feels Billy Joel, sometimes it feels like Day Tripper Beatles, and then there’s some Tom Waits grit. I think what is the most fun about this type of music is the atmospheric storytelling. Each song feels like a story that you’re overhearing in a dimly lit American bar. I decided that this should be an ‘chill’ run and deliberately slowed it down. I was surprised to see that my ‘chill’ pace was a lot faster than my ‘struggle’ pace had been a few weeks ago. But this is probably also due to the fact that I set my app to cut out the time that I spend waiting for stop lights. Either way it feels good to see my mile times going down.Another thing of note is that this was my first run in the rain, and it was not miserable.",		
