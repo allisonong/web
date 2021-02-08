@@ -1,4 +1,15 @@
 runs = [
+	{
+		"date":"2/6/2021",
+		"rsnum":"388",
+		"title":"Young, Gifted, and Black",
+		"artist":"Aretha Franklin",
+		"year":"1972",
+		"quote":"Aretha Franklin was 29 at the time of Young, Gifted and Black, and she was already on her 19th album and her second record label. With her gospel-choir training and jazz chops, there was nothing she didn’t know about singing.",
+		"text":"I spent this whole run comparing this album to A Hard Day’s Night (see last run) because I felt bad about roasting The Beatles. However, I have to say I think I stand by my roasting. I thought about how I grew up in a Beatles culture, so it’s easy to take them for granted. I also thought about how I had compared them to two modern artists, which was maybe unfair. But I have to say, I find it hard to imagine someone who grew up listening to Aretha ever being sick or underwhelmed by her. And this album came out less than 10 years after A Hard Day’s Night and yet it has all of the complexity the former lacks. There are many types of songs, from funk to soul to jazz. There are a range of sounds from horns to piano to gospel choir. The lyrical content includes the standard love songs, but also songs about lifting up the youth in your community or just grooving to music. There’s rhythmic variation above the standard 4x4, rhyme on every last word, formula. There’s drama! The songs have a beginning, a middle, and an end. There is buildup, there is tension, there is release. There is emotion! When Aretha sings, you feel something! The majority of the songs on A Hard Day’s Night are sung in this sortof monotone that makes it seem like the Beatles themselves are bored while singing. So, in conclusion, this album was amazing and better than A Hard Day’s Night by the Beatles.",		
+		"miles":"4.1",
+		"img":"young-gifted-and-black.jpg"
+	},
 
 	{
 		"date":"2/4/2021",
