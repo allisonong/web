@@ -1,5 +1,17 @@
 runs = [
 	{
+		"date":"2/16/2021",
+		"rsnum":"259",
+		"title":"Pearl",
+		"artist":"Janis Joplin",
+		"year":"1971",
+		"quote":"On Pearl, Janis Joplin finally made a solo album worthy of her mighty blues-mama voice. ... Pearl was more intimate, more assured, unleashing her Texas-bred wail on the country-style soul tune \"Get It While You Can\” and the Number One hit \"Me and Bobby McGee\”.",
+		"text":"Jesus. Aretha Franklin then Janis Joplin! What amazing albums, and they came out within a year of each other. I keep having these moments where I am surprised when albums on this list are really good. I am embarrassed to admit that I haven’t listened to this artist before. Despite having listened to a lot of Joni Mitchell and seeking out women artists from the 70’s, I am pretty sure my high school self listened to one or two of Janis Joplin’s songs and decided they were country. Anyways I was wrong. I have heard great things about her and I was still unprepared for the vocals and soul and blues and rhythms and beats that came out of this album. What a joy to run to. Speaking of running being a joy, I am settling into my weekday 3 mile runs. The runs themselves no longer induce dread, although it still takes me 30 minutes to an hour to get myself out the door.",		
+		"miles":"3.1",
+		"img":"pearl.jpg"
+	},
+
+	{
 		"date":"2/6/2021",
 		"rsnum":"388",
 		"title":"Young, Gifted, and Black",
