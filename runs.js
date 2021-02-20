@@ -1,5 +1,17 @@
 runs = [
 	{
+		"date":"2/21/2021",
+		"rsnum":"66",
+		"title":"A Love Supreme",
+		"artist":"John Coltrane",
+		"year":"1965",
+		"quote":"Coltrane’s majestic, often violent blowing (famously described as \“sheets of sound\”) is never self-aggrandizing. Coltrane soars with nothing but gratitude and joy. You can’t help but go with him.",
+		"text":"Well, this was probably the first time I have ever ran while listening to jazz and I didn’t hate it. I think I probably need to listen to it again because, as someone who’s used to listening to music with words, this album was the soundtrack and prompt for my thoughts. Meaning, what I remember about this run most are the things I thought about. This album has four tracks sharing the name of the album but with pt I Acknowledgement, pt II Resolution, pt III Pursuance, pt IV Psalm. I found this titling really curious so I tried to think about these topics as the tracks played. I started my run thinking about acknowledgement and the things I could/should acknowledge. It occurred to me that the songs were like little one word poems with musical prompts to guide your experience. (Actually the first track is a four word poem since Coltrane shouts ‘A Love Supreme!’ a few times towards the end). It was a new experience for me, to run and think intentionally about something. It was kindof meditative. I liked it. It felt like a sonic journey.",		
+		"miles":"3.1",
+		"img":"a-love-supreme.jpg"
+	},
+
+	{
 		"date":"2/16/2021",
 		"rsnum":"259",
 		"title":"Pearl",
