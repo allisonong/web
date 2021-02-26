@@ -1,6 +1,18 @@
 runs = [
 
 	{
+		"date":"2/24/2021",
+		"rsnum":"441",
+		"title":"Blackout",
+		"artist":"Britney Spears",
+		"year":"2007",
+		"quote":"The pop queen vents all her raging party-girl hostility in Blackout — the weirdest, wildest music of her life. Blackout is her avant-disco concept album about fame, scandal, divorce, and dancing on tables in a cloud of glitter and Cheetos dust.",
+		"text":"It seemed timely to listen to a Britney album given the Free Britney movement making headlines. I grew up with Britney and \"Baby one more time\" and \"Oops I did it Again\" are some of my first memories of owning my own cds in elementary school. In college my friends and I revered BritBrit as our queen. But with all that said, I’m not sure why this album out of her whole discography is on this list. I feel like the albums I just mentioned are already better and more certain of sound than this techno-pop extravaganza. Maybe all the people who voted for this to be on the list are producers who get a lot more out of computery robot sounds than I do (and yet I love daft punk). The only songs that really stood out to me were Gimme More, Piece of Me (which I love), and On My Radar (but only because I’ve watched the music video multiple times).  The rest all blended together. So, post-run I checked out the wikipedia page for this album and was shocked by how mean the reviews quoted were towards Britney. They all had something to say about how \"even if Britney is not fully with it, at least she knows to hire the best\". I guess people were mean in the 90’s/early aughts. It’s totally true that what people said about her, they would not be able to get away with now. Oh and one more thing - this is probably the worst album cover so far.",		
+		"miles":"4.1",
+		"img":"blackout.png"
+	},
+
+	{
 		"date":"2/20/2021",
 		"rsnum":"97",
 		"title":"Master of Puppets",
