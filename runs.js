@@ -1,11 +1,23 @@
 runs = [
 	{
+		"date":"3/16/2021",
+		"rsnum":"401",
+		"title":"Blondie",
+		"artist":"Blondie",
+		"year":"1976",
+		"quote":"Blondie had a hard time getting taken seriously in the CBGB punk scene. But while the band’s debut celebrates Sixties rock & roll at its campiest — girl groups, garage trash, surf bubblegum — Harry’s heart-on-sleeve swoon during “In the Flesh “ sincerely updated the Shangri-Las for the Lower East Side circa 1977, and the gritty “Rip Her to Shreds” showed Blondie could get down with the tough guys, too.",
+		"text":"I was surprised that none of the songs I recognize from Blondie were on this album. I guess I have her album \”Parallel Lines\” to look forward to for that (she’s on the list twice). No strong feelings about this one. I was also surprised by the sound of the first few songs - I guess they’re celebrating the sixties at its campiest. They felt almost like the early Beatles style. Wikipedia puts the genre of this album as punk rock, which means I still don’t know what punk is supposed to sound like. The whole album was fun to run to, but none of the songs stood out to me in particular except one which had me double-take at my phone. Towards the end of the album, Blondie starts a song with \”Yat, Yee, Sam!\” and I was like, \“is that Cantonese?!!?\” and then I looked at my phone and the name of the song is \”Kung Fu Girls\”. As far as I can tell, it’s about girls with \”oriental pride\” who kick down guys in chinatown. You know, I was expecting to be offended and I’m not.",		
+		"miles":"3.4",
+		"img":"blondie.jpg"
+	},
+
+	{
 		"date":"2/26/2021",
 		"rsnum":"103",
 		"title":"3 Feet High and Rising",
 		"artist":"De La Soul",
 		"year":"1989",
-		"quote":" Long Island high school friends Posdnuos, Trugoy, and Maseo linked up with Stetsasonic DJ Prince Paul to create a left-field hip-hop masterpiece, heralding a \“D.A.I.S.Y. Age\” and weaving samples of Steely Dan, Malcolm McLaren, and Johnny Cash with raps about everything from Public Enemy-style politics (\“Ghetto Thang\”) to individualism (\“Take It Off\”) to body odor (\“A Little Bit of Soap\”)",
+		"quote":"Long Island high school friends Posdnuos, Trugoy, and Maseo linked up with Stetsasonic DJ Prince Paul to create a left-field hip-hop masterpiece, heralding a \“D.A.I.S.Y. Age\” and weaving samples of Steely Dan, Malcolm McLaren, and Johnny Cash with raps about everything from Public Enemy-style politics (\“Ghetto Thang\”) to individualism (\“Take It Off\”) to body odor (\“A Little Bit of Soap\”)",
 		"text":"There have been several albums I’ve listened to so far that I felt were too high up on the Rolling Stone’s list of 500. This one feels like it deserves to be right up where it is at the 100 line. It’s truly mind blowing that this is the first album from some friends straight out of high school. The album is framed by the audio to a fictional game show, where no one wins. I remember when Janelle Monae’s album Electric Lady came out, I thought it was super creative and original to include several tracks of a fictional radio show between songs to act like the greek chorus to her operatic album. After listening to Madvillainy and 3 Feet High and Rising, I now know that’s a hip hop tradition. The sounds and samples and stories and jokes on this album are super fresh, and just entertaining and fun to run to. I particularly loved the song \”Tread Water\” which was a potent reminder in the middle of my longest run so far, to just keep going. But it also felt relevant to life during a pandemic, a reckoning/apex of racial violence, an siege to a federal building in DC, and what else. Just listen to the crocodile, Mr. Squirrel, Mr. Fish, and Mr. Monkey and tread water.",		
 		"miles":"6.3",
 		"img":"3-feet-high-and-rising.jpg"
