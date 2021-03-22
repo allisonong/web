@@ -1,5 +1,17 @@
 runs = [
 	{
+		"date":"3/20/2021",
+		"rsnum":"62",
+		"title":"Appetite for Destruction",
+		"artist":"Guns 'N Roses",
+		"year":"1987",
+		"quote":"Indiana-bred Axl Rose’s five-alarm yowl bowled over listeners. Guitarist Slash gave the band blues emotion and punk energy, while the rhythm section brought the funk on hits such as “Welcome to the Jungle.” When all the elements came together, as in the final two minutes of “Paradise City,” GN’R left all other Eighties metal bands in the dust, and they knew it, too.",
+		"text":"Well, the first song on this album is \”Welcome to the Jungle\” which was just a great way to start the album. Turns out all the GN’R hits are on this album, including \”Sweet Child of Mine\” and \”Paradise City\”. Those three songs are so damn good, almost perfect songs, that are exciting, dramatic, and emotional. My blood was pumping and I felt excited to be alive and excited to be running outside. Those songs are so well structured with a range of sounds and musical parts (bridges and guitar solos) that are all interesting and well paced so that the song never gets boring. What a killer of an album. Unfortunately this run turned into an anger run (third one in a year!) where running releases my pent up emotions about shitty things like racism and senseless violence. So, somewhere during the second mile I found myself gasping for air either from pushing it too hard or feeling all my feelings or both. The good news is I managed my huffing and puffing and didn’t have to stop running.  I’m sure I’m not the only person this happens to.  I was surprised that this turned  into an anger run (it is no RTJ4) but I guess the music resonated with me, got some emotions/adrenaline going, and unlocked my box of emotions I try not to feel too often. I think overall it’s good to go on an anger run every so often. So, I am grateful to Guns n Roses for helping me get some release.",		
+		"miles":"5.7",
+		"img":"appetite-for-destruction.jpg"
+	},
+
+	{
 		"date":"3/16/2021",
 		"rsnum":"401",
 		"title":"Blondie",
