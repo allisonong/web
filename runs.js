@@ -1,5 +1,17 @@
 runs = [
 	{
+		"date":"3/25/2021",
+		"rsnum":"425",
+		"title":"Call Me",
+		"artist":"Al Green",
+		"year":"1973",
+		"quote":"Green was absolutely fearless at this point, an innovator willing to try any crazy idea — country ballads, jazz chords, even a gospel tune. Producer Willie Mitchell and his studio band of virtuoso Memphis R&B pros create the sultriest grooves south of the Mason-Dixon line.",
+		"text":"This is my first time knowingly listening to Al Green. This album definitely grew on me and set the pace for a nice run, at a relaxed pace. The even keel of the music made it really easy to set a chill pace and keep it going. The album is a soul classic, sounds like a soul classic, but the lyrical content felt surprisingly sad to me. \”Have you been making out okay\” felt sweet and sad, especially after a year of social distancing and not keeping up with people I care about.  \”I’m so Lonesome I Could cry\” (which apparently is a cover) is really sad, especially after a year of social distancing and spending loads of time alone. \”Funny How the Time Slips Away\” also felt a little too real and sad, especially after realizing how long it's been since I’ve seen some of my favorite people.  So, I guess what I’ll say is that the music and singing is very smooth and cool, but the lyrics sure were melancholy. It’s a weird contrast and I don’t know exactly what to make of it.  My favorite tracks were \”Here I am, Come and Take me\” and the last track, \”Jesus is Waiting\”. Both were more along the lines of what I expected - funky and fresh, something to groove to.",		
+		"miles":"3.2",
+		"img":"call-me.jpg"
+	},
+
+	{
 		"date":"3/20/2021",
 		"rsnum":"62",
 		"title":"Appetite for Destruction",
