@@ -1,4 +1,41 @@
 runs = [
+
+	{
+		"date":"4/7/2021",
+		"rsnum":"496",
+		"title":"Dónde Están los Ladrones",
+		"artist":"Shakira",
+		"year":"1998",
+		"quote":"Shakira enlisted Emilio Estefan to help produce her next LP, this stellar globetrotting dance-rock set, which blends sounds from Colombia, Mexico, and her father’s native Lebanon.",
+		"text":"I have been a casual Shakira fan for a few decades. I loved her superbowl performance with J Lo and appreciate how she stands up for small-boobed people. Before listening I was concerned this whole album would go over my head, like Rosalia’s \”El Mal Querer\”. But it turns out I don’t need to understand the lyrics to be pretty into 90’s rock tunes. I like the brunette, rocker version of Shakira. I like her voice. I like 90’s rock. I like the latin and middle eastern influences. I can’t say this is one of my favorite albums, but it was fun to run to and I will probably come back to it in the future.",		
+		"miles":"4.1",
+		"img":"donde-estan-los-ladrones.jpg"
+	},
+
+	{
+		"date":"4/6/2021",
+		"rsnum":"468",
+		"title":"Some Girls",
+		"artist":"The Rolling Stones",
+		"year":"1978",
+		"quote":"Why did the Stones call their big comeback album Some Girls? Keith explained, ‘Because we couldn’t remember their fucking names.’",
+		"text":"This quote about the album makes me feel the way the song \”Some Girls\” made me feel - which is that the originator is a jerk. I guess that’s what rock and roll was about? A bunch of young white guys being jerks? In any case \”Some Girls\” is a long list of unflattering stereotypes about women that fails to be as charming as some other lists (I’m thinking of one by the Beach Boys). As Keith goes through his list (Italian girls want cars, English girls talk too much, Black women just want to be fucked all night, American girls want everything under the sun, white girls are funny) my eyebrows moved progressively higher up my forehead. He ends this list with Chinese girls (hello) who are ‘gentle’. Sounds like none of the Rolling Stones have ever been to a cosmetician in Chinatown. (That was a joke and Chinese women, like all people, can be both gentle and not gentle. GOODNESS) \”Beast of Burden\” is indeed a really great song, but the rest of the songs on this album were fun to listen to, but two days later I don’t remember them. I think in the end my feeling is that there are plenty of really good songs by The Rolling Stones that I will listen to in the future. \”Beast of Burden\” is one of them, but none of the other songs on this album are.",		
+		"miles":"3",
+		"img":"some-girls.jpg"
+	},
+
+	{
+		"date":"3/31/2021",
+		"rsnum":"492",
+		"title":"Nick of Time",
+		"artist":"Bonnie Raitt",
+		"year":"1989",
+		"quote":"After being dumped by her previous label, blues rocker Bonnie Raitt exacted revenge with this multiplatinum Grammy-award winner, led by an on-fire version of John Hiatt’s \“Thing Called Love\” and the brilliant title track, a study in midlife crisis told from a woman’s perspective.",
+		"text":" I was surprised multiple times by this album. I had previously only known Bonnie Raitt as a folk singer, most known for her version of John Prine’s \”Angel from Montgomery\”. The album opens with a very 80’s rock song. But the music jumps from genre to genre including pop, blues, country (honky tonk is the word that came to mind, but I’m not sure I really know what that is), r&b, reggae. I think the crazy genre bending made this album feel a little confusing to listen to as a whole, but I was impressed by the title track \”Nick of Time\” which is a song about watching your parents getting old, and then realizing that you’re getting old too. Yep, I feel that. How is my running going? Okay. I am still running but I haven’t gotten to that point where going on a long run feels good.",		
+		"miles":"4.3",
+		"img":"nick-of-time.jpg"
+	},
+
 	{
 		"date":"3/25/2021",
 		"rsnum":"425",
